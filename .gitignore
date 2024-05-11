@@ -160,6 +160,5 @@ cython_debug/
 .idea/
 
 # ChromaDB tmp
-notebook/tmp
-/notebook
+/notebook/tmp
 /notebook/.env
