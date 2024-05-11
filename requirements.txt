@@ -1,0 +1,4 @@
+chromadb
+pyautogen
+pyautogen[retrievechat]
+pypdf
